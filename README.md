@@ -2,7 +2,7 @@
 
 # Copyright: Sources:
 
-© bartolome,
+© bartolome, jacob
 
 ## Gameboy Pedia
 
@@ -45,7 +45,7 @@ XXXX XXXX XXXX
 ```
 # Copyright: Sources:
 
-© bartolome,
+© bartolome, jacob
 
 ## genre library
 
@@ -94,7 +94,7 @@ XXXX:
 # Copyright: Sources:
 
 ```
-© bartolome,
+© bartolome, jacob
 ```
 ## logo gameboy pedia hub genre library deep dives design lineage about us
 
@@ -134,7 +134,7 @@ tempor.
 
 # Copyright: Sources:
 
-© bartolome,
+© bartolome, jacob
 
 ## Design lineage
 
@@ -143,7 +143,7 @@ tempor.
 
 # Copyright: Sources:
 
-© bartolome,
+© bartolome, jacob
 
 ## About us
 
